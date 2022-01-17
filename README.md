@@ -1,5 +1,5 @@
 - Hi, I’m Ming Ming
-- I’m currently learning computer vision in deep learning and operations research. 
+- I’m currently learning computer vision in deep learning. 
 - Before that I was a mathematician working in geometric group theory and teaching math courses at Carleton and Trent Universities.
 - I'm always open to interesting conversations and collaboration.
 - Best to reach me via [email](mailto:mmzhangist@gmail.com).
